@@ -1,0 +1,189 @@
+[
+    {
+        "charactername":
+        {
+            "heroname": "Ana",
+            "fullname":
+            {
+                "firstname": "Ana",
+                "lastname": "Amari"
+            }
+        },
+        "role": "Support",
+        "healthpoints": 200,
+        "shields": 0,
+        "difficultyrating": 3,
+        "abilities" : 
+        {
+            "normalabilites":
+            [
+                "Biotic Rifle",
+                "Sleep Dart",
+                "Biotic Grenade"
+            ],
+            "ultimateAbility": "Nano Boost"
+        },
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/ana/hero-select-portrait.png"
+    },
+    {
+        "charactername":
+        {
+            "heroname": "Baptiste",
+            "fullname":
+            {
+                "firstname": "Jean-Baptiste",
+                "lastname": "Augustin"
+            }
+        },
+        "role": "Support",
+        "healthpoints":200,
+        "shields": 0,
+        "difficultyrating": 3,
+        "abilities" : 
+        {
+            "normalabilites":
+            [
+                "Biotic Launcher",
+                "Regenerative Burst",
+                "Immortality Field",
+                "Exo Boots"
+            ],
+            "ultimateAbility": "Amplification Matrix"
+        },
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/baptiste/hero-select-portrait.png"
+    },
+    {
+        "charactername":
+        {
+            "heroname": "Brigitte",
+            "fullname":
+            {
+                "firstname": "Brigette",
+                "lastname": "Lindholm"
+            }
+        },
+        "role": "Support",
+        "healthpoints":150,
+        "shields": 50,
+        "difficultyrating": 1,
+        "abilities" : 
+        {
+            "normalabilites":
+            [
+                "Rocket Flail",
+                "Repair Pack",
+                "Whip Shot",
+                "Barrier Shield",
+                "Shield Bash"
+            ],
+            "ultimateAbility": "Rally"
+        },
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/brigitte/hero-select-portrait.png"
+    },
+    {
+        "charactername":
+        {
+            "heroname": "Lucio",
+            "fullname":
+            {
+                "firstname": "Lúcio",
+                "lastname": "Correia dos Santos"
+            }
+        },
+        "role": "Support",
+        "healthpoints":200,
+        "shields": 0,
+        "difficultyrating": 2,
+        "abilities" : 
+        {
+            "normalabilites":
+            [
+                "Sonic Amplifier",
+                "Crossfade",
+                "Amp It Up"
+            ],
+            "ultimateAbility": "Sound Barrier"
+        },
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/lucio/hero-select-portrait.png"
+    },
+    {
+        "charactername":
+        {
+            "heroname": "Mercy",
+            "fullname":
+            {
+                "firstname": "Angela",
+                "lastname": "Ziegler"
+            }
+        },
+        "role": "Support",
+        "healthpoints": 200,
+        "shields": 0,
+        "difficultyrating": 1,
+        "abilities" : 
+        {
+            "normalabilites":
+            [
+                "Caduceus Staff",
+                "Caduceus Blaster",
+                "Guardian Angel",
+                "Resurrect",
+                "Angelic Descent"
+            ],
+            "ultimateAbility": "Valkyrie"
+        },
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/mercy/hero-select-portrait.png"
+    },
+    {
+        "charactername":
+        {
+            "heroname": "Moira",
+            "fullname":
+            {
+                "firstname": "Moira",
+                "lastname": "O'Deorain"
+            }
+        },
+        "role": "Support",
+        "healthpoints": 200,
+        "shields": 0,
+        "difficultyrating": 2,
+        "abilities" : 
+        {
+            "normalabilites":
+            [
+                "Biotic Grasp",
+                "Biotic Ord",
+                "Fade"
+            ],
+            "ultimateAbility": "Coalescence"
+        },
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/moira/hero-select-portrait.png"
+    },
+    {
+        "charactername":
+        {
+            "heroname": "Zenyatta",
+            "fullname":
+            {
+                "firstname": "Tekhartha",
+                "lastname": "Zenyatta"
+            }
+        },
+        "role": "Support",
+        "healthpoints": 50,
+        "shields": 150,
+        "difficultyrating": 3,
+        "abilities" : 
+        {
+            "normalabilites":
+            [
+                "Orb of Destruction",
+                "Orb of Harmony",
+                "Orb of Discord"
+            ],
+            "ultimateAbility": "Transcendence"
+        },
+        "image": "https://d1u1mce87gyfbn.cloudfront.net/hero/zenyatta/hero-select-portrait.png"
+    }
+]
